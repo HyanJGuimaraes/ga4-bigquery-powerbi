@@ -20,7 +20,7 @@ Pipeline analítico end-to-end sobre um dataset público de e-commerce com arqui
 
 ## 🏗 Arquitetura do Projeto (3 Camadas)
 
-O projeto segue uma arquitetura em camadas, garantindo **rastreabilidade e padronização dos dados**, requisitos essenciais em times de Governança de Dados (como na RD Saúde).
+O projeto segue uma arquitetura em camadas, garantindo **rastreabilidade e padronização dos dados**, requisitos essenciais em times de Governança de Dados.
 
 1. **GA4 (Fonte):** Coleta de eventos de navegação e e-commerce padrão.
 2. **Raw Layer (BigQuery):** Dados brutos armazenados nas tabelas particionadas `events_*`. Consultas exploratórias disponíveis em `raw_queries/`.
