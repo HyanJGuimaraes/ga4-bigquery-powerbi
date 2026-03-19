@@ -1,0 +1,14 @@
+dispositivo,sistema_op,usuarios,sessoes,compras,receita_total,ticket_medio
+desktop,Web,34562,42609,409,18930.0,60.67
+mobile,Web,19423,23965,256,12528.0,63.92
+desktop,Windows,10744,13326,143,6941.0,64.87
+mobile,iOS,10313,12696,145,6480.0,63.53
+mobile,Android,7796,9672,107,5223.0,68.72
+desktop,Macintosh,6990,8662,87,4701.0,68.13
+desktop,<Other>,2403,3016,28,1202.0,54.64
+tablet,Web,1142,1402,17,801.0,66.75
+tablet,iOS,640,762,6,269.0,67.25
+tablet,Android,347,419,6,275.0,68.75
+mobile,<Other>,8,8,0,,
+tablet,Windows,6,11,0,,
+mobile,Windows,1,1,0,,
